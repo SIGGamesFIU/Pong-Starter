@@ -1,0 +1,2 @@
+c:\users\temp\documents\visual studio 2010\Projects\Pong\Pong\PongContent\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\David\Documents\Visual Studio 2010\Pong\Pong\PongContent\obj\x86\Debug\ResolveAssemblyReference.cache
